@@ -1,5 +1,5 @@
 # BXB-Discord-Token-Generator
-#BXB Discord Token Generator / Account Creator
+# BXB Discord Token Generator / Account Creator
 
 
 ℹ️  `BXB Gen - Features` 
