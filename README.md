@@ -18,5 +18,6 @@
 ℹ️ With **BXB**, You need nothing else but premium proxies to be able to start generating unlocked tokens.
 
 🔗 Join for prices, features & showcase video. https://discord.gg/KsshWHs9YJ
+
 https://github.com/user-attachments/assets/7278ef22-f069-4ea4-9dea-6cee7d94227a
 
